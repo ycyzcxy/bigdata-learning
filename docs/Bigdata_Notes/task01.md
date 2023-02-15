@@ -10,14 +10,14 @@
 
 #### 系统安装
 
-![](D:\myblogs\docs\Bigdata_Notes\img\01.png)
+![](./img/01.png)
 
 #### windows安装和配置FileZilla，用于传输安装包至虚拟机
 
-![](D:\myblogs\docs\Bigdata_Notes\img\02.png)
+![](./img/02.png)
 
 #### java安装包上传成功并进行解压安装
 
-![](D:\myblogs\docs\Bigdata_Notes\img\03.png)
+![](./img/03.png)
 
 未完待续。。。
