@@ -10,14 +10,14 @@
 
 #### 系统安装
 
-![](C:\Users\ycyzy\AppData\Roaming\marktext\images\2023-02-16-00-57-35-image.png)
+![](D:\myblogs\docs\Bigdata_Notes\img\01.png)
 
 #### windows安装和配置FileZilla，用于传输安装包至虚拟机
 
-![](C:\Users\ycyzy\AppData\Roaming\marktext\images\2023-02-16-00-58-33-image.png)
+![](D:\myblogs\docs\Bigdata_Notes\img\02.png)
 
 #### java安装包上传成功并进行解压安装
 
-![](C:\Users\ycyzy\AppData\Roaming\marktext\images\2023-02-16-01-01-30-image.png)
+![](D:\myblogs\docs\Bigdata_Notes\img\03.png)
 
 未完待续。。。
