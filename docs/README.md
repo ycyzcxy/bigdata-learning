@@ -2,7 +2,7 @@
 记录我参加的Datawhale组队学习笔记和习题解答。
 
 ## 在线阅读地址
-在线阅读地址：https://plutos.org.cn/my-team-learning
+在线阅读地址：https://ycyzcxy.github.io/bigdata-learning/
 
 ## 目录
 - 第46期大数据技术导论

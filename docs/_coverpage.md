@@ -7,5 +7,5 @@
 * 机器学习、深度学习、大数据
 * Python
 
-[GitHub](https://github.com/Weihong-Liu/my-team-learning.git)
-[Get Started](https://plutos.org.cn/my-team-learning/#/README)
+[GitHub](https://github.com/ycyzcxy/bigdata-learning/)
+[Get Started](https://ycyzcxy.github.io/bigdata-learning/)
