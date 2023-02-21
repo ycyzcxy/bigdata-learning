@@ -20,7 +20,7 @@
 
 ![](./img/1_1_1_01.png)
 
-<img src="./img/1_1_1_01.png"style="zoom:30%">
+<center><img src="./img/1_1_1_01.png" style="zoom:50%;" /></center>
 
 ###### 1.1.2 选择自定义安装，点击下一步
 
