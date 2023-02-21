@@ -18,75 +18,75 @@
 
 在启动页面的右侧显示创建新的虚拟机快捷键，或启动页面的工具栏“文件”选项目录下选择新建虚拟机，两种方式都可以。
 
-<img src="./img/1.1.1_01.png" title="" alt="" width="471">
+<img title="" src="./img/1.1.1_01.png" alt="" width="438">
 
 ###### 1.1.2 选择自定义安装，点击下一步
 
-<img src="./img/1.1.2_01.png" title="" alt="" width="503">
+<img title="" src="./img/1.1.2_01.png" alt="" width="438">
 
 ###### 1.1.3 虚拟机硬件兼容性选择窗口，不需要操作，继续点击下一步
 
-<img src="./img/1.1.3_01.png" title="" alt="" width="484">
+<img title="" src="./img/1.1.3_01.png" alt="" width="428">
 
 ###### 1.1.4 给虚拟机安装操作系统
 
 有三个选项，分别是 1）使用光驱从系统光盘安装；2）从系统光盘映像文件自动安装（iso 文件），缺点是无法进行个性化设置；3）先创建虚拟机，跳过系统安装，稍后手动安装。*<u>在这里选择第 3 个选项，先不安装操作系统，稍后手动安装，点击下一步按钮。</u>*
 
-<img src="./img/1.1.4_01.png" title="" alt="" width="493">
+<img title="" src="./img/1.1.4_01.png" alt="" width="438">
 
 ###### 1.1.5 选择稍后手动安装的操作系统类型和版本
 
-<img src="./img/1.1.5_01.png" title="" alt="" width="504">
+<img title="" src="./img/1.1.5_01.png" alt="" width="445">
 
 ###### 1.1.6 设置虚拟机名称和虚拟机文件存储位置
 
 图片所改地址为我电脑本地所存放位置，可根据自己实际情况进行设置
 
-<img src="./img/1.1.6_01.png" title="" alt="" width="506">
+<img title="" src="./img/1.1.6_01.png" alt="" width="444">
 
 ###### 1.1.7 虚拟机资源配置
 
 处理器配置都是虚拟出来的，按照默认配置就可以。如果机器性能强也可以根据需求自定义选择。滑动下图中左侧的滑块和右侧的上下调节按键都可以设置内存大小。
 
-<img src="./img/1.1.7_01.png" title="" alt="" width="528">
+<img title="" src="./img/1.1.7_01.png" alt="" width="452">
 
-<img src="./img/1.1.7_02.png" title="" alt="" width="528">
+<img title="" src="./img/1.1.7_02.png" alt="" width="451">
 
 ###### 1.1.8 设置虚拟机网络类型
 
-<img src="./img/1.1.8_01.png" title="" alt="" width="531">
+<img title="" src="./img/1.1.8_01.png" alt="" width="447">
 
 ###### 1.1.9 接下来的配置按照推荐默认的配置一直点下一步完成
 
-<img src="./img/1.1.9_01.png" title="" alt="" width="540">
+<img title="" src="./img/1.1.9_01.png" alt="" width="431">
 
 ###### 1.1.10 虚拟机配置
 
 <mark>注意</mark>：指定磁盘容量中，千万**不要**将“立即分配所有磁盘空间”勾选上，否则会在硬盘上立即划分出一个固定的空间给虚拟机使用，如果不勾选会根据需要自动调节，最大上限是设置的值。
 
-<img src="./img/1.1.10_01.png" title="" alt="" width="491">
+<img title="" src="./img/1.1.10_01.png" alt="" width="435">
 
-<img src="./img/1.1.10_02.png" title="" alt="" width="496">
+<img title="" src="./img/1.1.10_02.png" alt="" width="430">
 
 ###### 1.1.11 设置虚拟机磁盘文件路径和名称
 
 使用推荐默认选项即可，继续点下一步。
 
-<img src="./img/1.1.11_01.png" title="" alt="" width="513">
+<img title="" src="./img/1.1.11_01.png" alt="" width="435">
 
 ###### 1.1.12 创建完成
 
 详细列出虚拟机的配置信息，点击完成。
 
-<img src="./img/1.1.12_01.png" title="" alt="" width="517">
+<img title="" src="./img/1.1.12_01.png" alt="" width="433">
 
 接下来删除一些我们不需要的配置，点击编辑虚拟机设置
 
-<img title="" src="./img/1.1.12_02.png" alt="" width="512">
+<img title="" src="./img/1.1.12_02.png" alt="" width="435">
 
 在虚拟机设备详情界面中选择 ***USB 控制器、声卡、打印机*** 分别点击移除按钮将这三项没用的设备删除。
 
-<img src="./img/1.1.12_03.png" title="" alt="" width="524">
+<img title="" src="./img/1.1.12_03.png" alt="" width="413">
 
 ##### 1.2 在虚拟机中安装ubuntu操作系统
 
@@ -96,33 +96,33 @@
 
 在 vmware 最左侧虚拟机机器列表中，选择需要安装系统的虚拟机，点击“编辑虚拟机设置”按钮，在弹出的虚拟机设备列表中选中 CD/DVD(IDE)，选中“使用 ISO 映像文件”，点击“浏览”按钮添加系统映像文件路径，点击确定按钮。
 
-![](./img/1.2.1_01.png)
+<img title="" src="./img/1.2.1_01.png" alt="" width="475">
 
 ###### 1.2.2 安装系统镜像
 
 点击 “开启此虚拟机” 按钮
 
-![](./img/1.2.2_01.png)
+<img src="./img/1.2.2_01.png" title="" alt="" width="377">
 
 ###### 1.2.3 系统安装过程
 
-1. 等待其自行加载ubuntu<img title="" src="./img/1.2.3_01.png" alt="" width="504" data-align="inline">
+1. 等待其自行加载ubuntu<img title="" src="./img/1.2.3_01.png" alt="" width="462" data-align="inline">
 
-2. 选择简体中文并且安装ubuntu <img src="./img/1.2.3_02.png" title="" alt="" width="534">
+2. 选择简体中文并且安装ubuntu<img title="" src="./img/1.2.3_02.png" alt="" width="469">
 
-3. .选择chinese点击继续 <img src="./img/1.2.3_03.png" title="" alt="" width="549">
+3. .选择chinese点击继续 <img title="" src="./img/1.2.3_03.png" alt="" width="461">
 
-4. 选择正常安装之后点击继续 <img src="./img/1.2.3_04.png" title="" alt="" width="554">
+4. 选择正常安装之后点击继续 <img title="" src="./img/1.2.3_04.png" alt="" width="476">
 
-5. 点击安装 <img src="./img/1.2.3_05.png" title="" alt="" width="569">
+5. 点击安装 <img title="" src="./img/1.2.3_05.png" alt="" width="577">
 
-6. 点击继续进行下一步 <img src="./img/1.2.3_06.png" title="" alt="" width="591">
+6. 点击继续进行下一步 <img title="" src="./img/1.2.3_06.png" alt="" width="582">
 
 7. 个人信息填写完毕之后继续点击下一步(此处的用户名建立登录账号，是具有sudo权限) <img src="./img/1.2.3_07.png" title="" alt="" width="561">
 
-8. 等待ubuntu的自行安装即可,安装完成之后重启虚拟机 )<img src="./img/1.2.3_08.png" title="" alt="" width="613"><img src="./img/1.2.3_09.png" title="" alt="" width="653">
+8. 等待ubuntu的自行安装即可,安装完成之后重启虚拟机 )<img title="" src="./img/1.2.3_08.png" alt="" width="561"><img title="" src="./img/1.2.3_09.png" alt="" width="563">
 
-9. 点击账户输入密码进行登录 ![](./img/1.2.3_10.png)
+9. 点击账户输入密码进行登录 <img src="./img/1.2.3_10.png" title="" alt="" width="563">
 
 10. 安装完成之后发现虚拟机未能全屏显示，解决方案参考笔记**前面列出的安装教程**，找到VMware tools进行安装，因本次安装未遇到不能全屏显示，故不加入该部分内容。
 
@@ -138,7 +138,7 @@ FileZilla是一款免费的工具，是基于 FTP 协议进行文件互传的，
 sudo apt-get install vsftpd
 ```
 
-<img src="./img/2.1_01.png" title="" alt="" width="457">
+<img title="" src="./img/2.1_01.png" alt="" width="382">
 
 2. 安装完之后检查 /etc/vsftpd.conf 配置文件，输入如下命令打开配置文件：
 
@@ -148,7 +148,7 @@ sudo vi  /etc/vsftpd.conf
 
 3. 然后检查下图 28 和 31 行的内容是否有被注释掉，如果前面有 “#” 号注释起来的话，就去掉即可。 
 
-![](./img/2.1_02.png)
+<img src="./img/2.1_02.png" title="" alt="" width="540">
 
 4. 修改完之后，重启FTP服务，如下命令：
    
@@ -166,25 +166,25 @@ sudo vi  /etc/vsftpd.conf
 
 2. **FileZilla 软件配置和连接ubuntu**
    
-   打开 FileZilla 软件，然后选择：文件 -> 站点管理器 -> 点击新增站点，然后配置连接参数，如下图： ![](./img/2.2_01.png)
+   打开 FileZilla 软件，然后选择：文件 -> 站点管理器 -> 点击新增站点，然后配置连接参数，如下图： <img src="./img/2.2_01.png" title="" alt="" width="525">
    
-   点击连接之后，就可以看到ubuntu下的文件了，如下图： ![](./img/2.2_02.png)
+   点击连接之后，就可以看到ubuntu下的文件了，如下图： <img src="./img/2.2_02.png" title="" alt="" width="523">
 
 3. **filezilla里解决中文乱码问题**
    
-   ![](./img/2.2_03.png)
+   <img src="./img/2.2_03.png" title="" alt="" width="523">
    
    filezilla连接上站点后，点击菜单栏的“文件”选项，下拉选择“添加当前连接到站点管理器”。
    
    在弹出的“站点管理器”窗口中，左侧选择 “新站点”，右侧切换到 “字符集” 选项卡后，勾选“使用自定义的字符集 ”并将编码设置为 “gb2312” ，或者选择 ”强制UTF-8″ ，两者编码选择其一，就能解决乱码问题。
    
-   ![](./img/2.2_04.png)
+   <img src="./img/2.2_04.png" title="" alt="" width="464">
 
 4. 预先把 java安装包与Hadoop安装包通过filezilla上传到master
    
    登录hadoop用户，预先把 java安装包与Hadoop安装包从windows本地拖拽上传到master节点系统中hadoop用户下的data文件夹
    
-   ![](./img/2.2_05.png)
+   <img title="" src="./img/2.2_05.png" alt="" width="484">
 
 #### 3 为master节点创建Hadoop用户
 
