@@ -20,6 +20,10 @@
 
 <img title="" src="./img/1.1.1_01.png" alt="" width="438">
 
+<img src="./img/1.1.1_01.png" title="" alt="" width="445">
+
+<img title="" src="./img/1.1.1_01.png" alt="" style="zoom:33%;" width="519">
+
 ###### 1.1.2 选择自定义安装，点击下一步
 
 <img title="" src="./img/1.1.2_01.png" alt="" width="438">
