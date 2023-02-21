@@ -20,15 +20,13 @@
 
 ![](./img/1_1_1_01.png)
 
-<center><img src="./img/1_1_1_01.png" style="zoom:50%;" /></center>
-
 ###### 1.1.2 选择自定义安装，点击下一步
 
-<img title="" src="./img/1.1.2_01.png" alt="" width="438">
+![](./img/1.1.2_01.png)
 
 ###### 1.1.3 虚拟机硬件兼容性选择窗口，不需要操作，继续点击下一步
 
-<img title="" src="./img/1.1.3_01.png" alt="" width="428">
+<img src="./img/1.1.3_01.png" title="" alt="" width="526">
 
 ###### 1.1.4 给虚拟机安装操作系统
 
