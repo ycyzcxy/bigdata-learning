@@ -1,3 +1,4 @@
 - [目录](README.md)
     - 第46期大数据技术导论
         - [Task01 详读第1、2章Hadoop内容](Bigdata_Notes/task01.md)
+        - [Task02 期中大作业](Bigdata_Notes/task05.md)
