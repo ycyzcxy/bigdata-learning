@@ -1,3 +1,5 @@
+
+
 # Task01
 
 ## 实验：完全分布式集群
@@ -106,23 +108,43 @@
 
 ###### 1.2.3 系统安装过程
 
-1. 等待其自行加载ubuntu<img title="" src="./img/1.2.3_01.png" alt="" width="462" data-align="inline">
+1. 等待其自行加载ubuntu
 
-2. 选择简体中文并且安装ubuntu<img title="" src="./img/1.2.3_02.png" alt="" width="469">
+   <img title="" src="./img/1.2.3_01.png" alt="" width="462" data-align="inline">
 
-3. .选择chinese点击继续 <img title="" src="./img/1.2.3_03.png" alt="" width="461">
+2. 选择简体中文并且安装ubuntu
 
-4. 选择正常安装之后点击继续 <img title="" src="./img/1.2.3_04.png" alt="" width="476">
+   <img title="" src="./img/1.2.3_02.png" alt="" width="469">
 
-5. 点击安装 <img title="" src="./img/1.2.3_05.png" alt="" width="577">
+3. .选择chinese点击继续 
 
-6. 点击继续进行下一步 <img title="" src="./img/1.2.3_06.png" alt="" width="582">
+   ​                                                       <img title="" src="./img/1.2.3_03.png" alt="" width="461">   
 
-7. 个人信息填写完毕之后继续点击下一步(此处的用户名建立登录账号，是具有sudo权限) <img src="./img/1.2.3_07.png" title="" alt="" width="561">
+4. 选择正常安装之后点击继续
 
-8. 等待ubuntu的自行安装即可,安装完成之后重启虚拟机 )<img title="" src="./img/1.2.3_08.png" alt="" width="561"><img title="" src="./img/1.2.3_09.png" alt="" width="563">
+   ​                                                   <img title="" src="./img/1.2.3_04.png" alt="" width="476">
 
-9. 点击账户输入密码进行登录 <img src="./img/1.2.3_10.png" title="" alt="" width="563">
+5. 点击安装
+
+   ​                                       <img title="" src="./img/1.2.3_05.png" alt="" width="577">
+
+6. 点击继续进行下一步  
+
+   <img title="" src="./img/1.2.3_06.png" alt="" width="582">
+
+7. 个人信息填写完毕之后继续点击下一步(此处的用户名建立登录账号，是具有sudo权限) 
+
+   <img src="./img/1.2.3_07.png" title="" alt="" width="561">
+
+8. 等待ubuntu的自行安装即可,安装完成之后重启虚拟机 )
+
+   ​                                          <img title="" src="./img/1.2.3_08.png" alt="" width="561">
+
+   <img title="" src="./img/1.2.3_09.png" alt="" width="563">
+
+9. 点击账户输入密码进行登录
+
+   ​                                  <img src="./img/1.2.3_10.png" title="" alt="" width="563">
 
 10. 安装完成之后发现虚拟机未能全屏显示，解决方案参考笔记**前面列出的安装教程**，找到VMware tools进行安装，因本次安装未遇到不能全屏显示，故不加入该部分内容。
 
@@ -294,7 +316,7 @@ sudo chown -R datawhale:datawhale /opt/hadoop
 打开`/etc/profile`文件，命令如下：
 
 ```shell
-sudo vi/etc/profile
+sudo vi /etc/profile
 ```
 
 在文件末尾，添加如下内容：
